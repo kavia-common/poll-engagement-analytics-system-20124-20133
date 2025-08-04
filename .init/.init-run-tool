@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/poll-engagement-analytics-system-20124-20133/polls_analytics_database"
+}
